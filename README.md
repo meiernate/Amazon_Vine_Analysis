@@ -16,20 +16,20 @@ The questions below reference the following results from the dataframe:
 ### How many Vine reviews and non-Vine reviews were there?
 
 Total Vine Reviews:
-    * Vine had 0 reviews. 
-    * Non-Vine had 1685 reviews.
+    - Vine had 0 reviews. 
+    - Non-Vine had 1685 reviews.
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 Five-Star Reviews:
-    * Vine had 0 five star ratings.
-    * Non-Vine had 631 five star ratings.
+    - Vine had 0 five star ratings.
+    - Non-Vine had 631 five star ratings.
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 Percentage of Five-Star reviews by Vine / Non-Vine:
-    * Vine had 0% five star ratings.
-    * Non-Vine had ~37% five star ratings. 
+    - Vine had 0% five star ratings.
+    - Non-Vine had ~37% five star ratings. 
 
 ## Summary
 
