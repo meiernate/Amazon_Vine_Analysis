@@ -9,27 +9,29 @@ The analysis focuses on reviews from the "Digital Video Game v1_00" dataset.
 ## Results
 The dataset for analysis had no vine reviews. The analysis was manually verified and double checked to confirm this result. Further details in the summary section of the analysis.
 
-The questions below reference the following results from the dataframe:
-
-![DataFrame_Results](Analysis/DataFrame_Results.png)
-
-### How many Vine reviews and non-Vine reviews were there?
+### _How many Vine reviews and non-Vine reviews were there?_
 
 Total Vine Reviews:
-    - Vine had 0 reviews. 
-    - Non-Vine had 1685 reviews.
 
-### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+   * Vine had 0 reviews.
+   * Non-Vine had 1685 reviews.
+
+### _How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?_
 
 Five-Star Reviews:
-    - Vine had 0 five star ratings.
-    - Non-Vine had 631 five star ratings.
 
-### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+   * Vine had 0 five star ratings.
+   * Non-Vine had 631 five star ratings.
+
+### _What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?_
 
 Percentage of Five-Star reviews by Vine / Non-Vine:
-    - Vine had 0% five star ratings.
-    - Non-Vine had ~37% five star ratings. 
+
+   * Vine had 0% five star ratings.
+   * Non-Vine had ~37% five star ratings. 
+    
+
+![DataFrame_Results](Analysis/DataFrame_Results.png)
 
 ## Summary
 
